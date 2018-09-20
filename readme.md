@@ -1,3 +1,6 @@
+Database is AWS oracle SQL
+
+
 User stories 
 As a user I want to be able to sign up. 
 As a user i want to be able to login with a password and a username.
