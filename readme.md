@@ -1,5 +1,7 @@
 Database is AWS oracle SQL
 
+wireframe is a draw.io file 
+
 
 User stories 
 As a user I want to be able to sign up. 
